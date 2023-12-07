@@ -1,0 +1,5 @@
+spring:
+  # console 창 색상 변경 옵션
+  output:
+    ansi:
+      enabled: always
